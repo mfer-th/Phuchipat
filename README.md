@@ -14,16 +14,16 @@
  
  🌱 I’m currently learning **laravel next.js**
 
- 👨‍💻 All of my projects are available at [Gsonic.net](Gsonic.net)
+ 👨‍💻 All of my projects are available at [MFER.IN.TH](mfer.in.th)
 
  💬 Ask me about **PHP, Lua**
 
- 📫 How to reach me **Gsonic.Net@gmail.com**
+ 📫 How to reach me **support@mfer.in.th**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:gsonic.net@gmail.com">
+  <a href="mailto:support@mfer.in.th">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="" target="_blank">
